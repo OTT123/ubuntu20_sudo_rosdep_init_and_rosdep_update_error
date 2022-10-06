@@ -19,6 +19,8 @@ rosdep update
 
 `xxx.xxx.xxx.xxx raw.githubusercontent.com`
 
+不同人可能查询到不同IP地址，在xxx.xxx.xxx.xxx填写自己查询到的。
+
 如下图
 
 ![image](https://github.com/OTT123/ubuntu20_sudo_rosdep_init_and_rosdep_update_error/blob/main/pic/host_exp.png)
