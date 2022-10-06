@@ -11,3 +11,12 @@ rosdep update
 # 1.运行sudo rosdep init
 ## step1 
 进入网站`https://www.ipaddress.com/`， 查询 `raw.githubusercontent.com` 所在IP地址(**IPv4**)
+
+## step2
+终端中执行 `sudo gedit /etc/hosts`
+
+添加如下内容
+
+`xxx.xxx.xxx.xxx raw.githubusercontent.com`
+
+如下图
