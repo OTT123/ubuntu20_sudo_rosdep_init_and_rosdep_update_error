@@ -36,5 +36,19 @@ Recommended: please run
 
 则成功。如果你先前进行了某些初始化操作，系统将提示你删除对应文件。
 
+***
+# 2.运行rosdep update
+使用国内源，依次执行以下脚本
+
+```
+rm update_rosdep_tsinghua.sh
+wget https://gitee.com/ncnynl/rosdep/raw/master/update_rosdep_tsinghua.sh
+sudo chmod +x ./update_rosdep_tsinghua.sh; sudo ./update_rosdep_tsinghua.sh
+```
+
+今后，可以正常执行 `rosdep update`
+
+
+
 
 
