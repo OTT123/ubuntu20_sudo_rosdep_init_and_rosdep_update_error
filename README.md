@@ -1,0 +1,1 @@
+# ubuntu20_sudo_rosdep_init_and_rosdep_update_error
