@@ -20,4 +20,21 @@ rosdep update
 `xxx.xxx.xxx.xxx raw.githubusercontent.com`
 
 如下图
+
 ![image](https://github.com/OTT123/ubuntu20_sudo_rosdep_init_and_rosdep_update_error/blob/main/pic/host_exp.png)
+
+## step3
+终端执行 `sudo rosdep init`
+
+如果打印如下内容：
+
+```
+Recommended: please run
+        
+        rosdep update
+```
+
+则成功。如果你先前进行了某些初始化操作，系统将提示你删除对应文件。
+
+
+
